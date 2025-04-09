@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/enneagram-quiz/static/css/main.e6c13ad2.css",
+    "main.js": "/enneagram-quiz/static/js/main.4e936fdf.js",
+    "static/js/488.e4491bf5.chunk.js": "/enneagram-quiz/static/js/488.e4491bf5.chunk.js",
+    "index.html": "/enneagram-quiz/index.html",
+    "main.e6c13ad2.css.map": "/enneagram-quiz/static/css/main.e6c13ad2.css.map",
+    "main.4e936fdf.js.map": "/enneagram-quiz/static/js/main.4e936fdf.js.map",
+    "488.e4491bf5.chunk.js.map": "/enneagram-quiz/static/js/488.e4491bf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4e936fdf.js"
+  ]
+}
